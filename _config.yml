@@ -4,7 +4,7 @@ SEOTitle: 想上学的博客 | 想上学 Blog
 header-img: img/home-bg.jpg
 email: 2524047634@qq.com
 description: "这里是想上学的个人博客，与你一起探索代码编程的世界"
-keyword: "C++, Linux,ML,DL,XUPT,后端开发 "
+keyword: "XUPT,C++,Linux,ML,DL,后端开发 "
 url: "" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,10 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
+bilibili_username: 快翻车的老司机
+github_username: saysrytoyou
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -91,12 +89,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    #{ title: "乱序（Midare）", href: "http://mida.re/" },
   ]
